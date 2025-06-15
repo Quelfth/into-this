@@ -2,5 +2,8 @@
 name = "into-this"
 version = "1.0.0"
 edition = "2024"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/Quelfth/into-this"
+description = "Convenience method to choose the target type of .into()."
 
 [dependencies]
